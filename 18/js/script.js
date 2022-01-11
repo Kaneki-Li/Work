@@ -28,4 +28,4 @@ const john = Object.create(soldier); // Object.create(прототип) - Соз
 
 
 // console.log(john.armor);
-john.sayHello();
+john.sayHello(); // 
